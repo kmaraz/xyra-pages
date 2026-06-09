@@ -507,7 +507,7 @@ button:focus-visible {
   }
 
   .hero h1 {
-    font-size: clamp(52px, 19vw, 84px);
+    font-size: clamp(52px, 17vw, 76px);
   }
 
   .story-header h1 {
@@ -519,14 +519,17 @@ button:focus-visible {
     font-size: 22px;
   }
 
+  .hero-copy {
+    padding-right: 68px;
+  }
+
   .hero-symbol {
-    position: relative;
-    inset: auto;
-    justify-self: end;
-    margin-top: -8px;
-    width: 104px;
-    height: 104px;
-    opacity: 0.9;
+    position: absolute;
+    inset: 48px 0 auto auto;
+    width: 54px;
+    height: 54px;
+    margin: 0;
+    opacity: 1;
   }
 
   .filter-button {
