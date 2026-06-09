@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Život v raji</title>
+  <desc id="desc">Literárna kresba ženy pri portáli simulovaného raja, s lúkou, margarétkami a rozpadnutými digitálnymi fragmentmi.</desc>
+  <rect width="1600" height="1000" fill="#fbfaf4"/>
+  <rect x="0" y="760" width="1600" height="240" fill="#e8eef6"/>
+  <circle cx="1168" cy="258" r="154" fill="#d49a25"/>
+  <circle cx="1168" cy="258" r="112" fill="none" stroke="#191715" stroke-width="4"/>
+  <circle cx="1168" cy="258" r="68" fill="none" stroke="#191715" stroke-width="3"/>
+  <path d="M1014 713c-76-92-112-194-108-304 6-162 118-284 262-284 144 0 258 122 264 284 4 110-32 212-108 304" fill="none" stroke="#191715" stroke-width="12" stroke-linecap="round"/>
+  <path d="M1087 697c-44-71-64-147-60-226 4-105 64-183 141-183s137 78 141 183c4 79-16 155-60 226" fill="#fbfaf4" stroke="#191715" stroke-width="6"/>
+  <path d="M1090 531c31 22 65 33 101 33 37 0 70-11 100-33" fill="none" stroke="#d49a25" stroke-width="8" stroke-linecap="round"/>
+  <path d="M406 774c7-69 15-127 24-173 11-57 29-91 55-103 14-7 32-7 47 0 26 12 44 46 55 103 9 46 17 104 24 173" fill="#fbfaf4" stroke="#191715" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M463 497c6-54 23-95 51-95s45 41 51 95" fill="#e8eef6" stroke="#191715" stroke-width="7" stroke-linecap="round"/>
+  <path d="M448 592c27 24 54 36 82 36 26 0 52-12 78-36" fill="none" stroke="#191715" stroke-width="6" stroke-linecap="round"/>
+  <path d="M529 631c-21 40-47 74-78 102" fill="none" stroke="#191715" stroke-width="5" stroke-linecap="round"/>
+  <path d="M529 631c21 40 47 74 78 102" fill="none" stroke="#191715" stroke-width="5" stroke-linecap="round"/>
+  <path d="M356 774h310" stroke="#191715" stroke-width="8" stroke-linecap="round"/>
+  <g fill="none" stroke="#191715" stroke-width="4" stroke-linecap="round">
+    <path d="M224 828c30-41 62-41 96 0"/>
+    <path d="M730 840c42-50 84-50 126 0"/>
+    <path d="M1006 824c34-39 69-39 104 0"/>
+    <path d="M1268 846c28-36 56-36 84 0"/>
+  </g>
+  <g>
+    <circle cx="259" cy="809" r="13" fill="#fbfaf4" stroke="#191715" stroke-width="4"/>
+    <circle cx="259" cy="809" r="5" fill="#d49a25"/>
+    <circle cx="770" cy="819" r="13" fill="#fbfaf4" stroke="#191715" stroke-width="4"/>
+    <circle cx="770" cy="819" r="5" fill="#d49a25"/>
+    <circle cx="1334" cy="825" r="13" fill="#fbfaf4" stroke="#191715" stroke-width="4"/>
+    <circle cx="1334" cy="825" r="5" fill="#d49a25"/>
+  </g>
+  <g fill="#191715">
+    <rect x="1398" y="434" width="28" height="28"/>
+    <rect x="1448" y="485" width="18" height="18"/>
+    <rect x="1324" y="563" width="22" height="22"/>
+    <rect x="1005" y="366" width="18" height="18"/>
+    <rect x="944" y="461" width="26" height="26"/>
+  </g>
+  <g fill="#d49a25">
+    <rect x="1362" y="496" width="16" height="16"/>
+    <rect x="986" y="575" width="20" height="20"/>
+    <rect x="1489" y="611" width="24" height="24"/>
+  </g>
+</svg>

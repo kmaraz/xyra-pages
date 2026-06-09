@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Semienka</title>
+  <desc id="desc">Literárna kresba pustatiny, amuletu, semienka a prvého výhonku obnovujúceho sa lesa.</desc>
+  <rect width="1600" height="1000" fill="#fbfaf4"/>
+  <rect x="0" y="704" width="1600" height="296" fill="#e6efe5"/>
+  <path d="M162 704c128-42 252-42 372 0 122 42 242 42 360 0 118-42 238-42 360 0 84 29 146 36 222 20" fill="none" stroke="#191715" stroke-width="9" stroke-linecap="round"/>
+  <path d="M306 710c4-112 8-218 14-318 2-42 28-67 70-75 39-7 68 9 88 48 46-66 102-88 168-66 62 21 96 74 102 159" fill="none" stroke="#191715" stroke-width="10" stroke-linecap="round"/>
+  <path d="M452 704c-4-90 8-167 36-232M544 704c8-110 43-200 104-270" stroke="#191715" stroke-width="7" stroke-linecap="round"/>
+  <path d="M920 704c34-112 68-204 102-276 24-50 64-72 120-66 60 6 100 46 120 120M1094 704c18-96 56-170 114-224" fill="none" stroke="#191715" stroke-width="10" stroke-linecap="round"/>
+  <path d="M1000 404c-50 18-90 49-120 92M1208 478c58-4 108 12 150 48" fill="none" stroke="#264c35" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="800" cy="446" r="116" fill="#264c35" stroke="#191715" stroke-width="9"/>
+  <circle cx="800" cy="446" r="70" fill="#fbfaf4" stroke="#191715" stroke-width="6"/>
+  <circle cx="800" cy="446" r="28" fill="#d49a25" stroke="#191715" stroke-width="5"/>
+  <path d="M800 562v138" stroke="#191715" stroke-width="8" stroke-linecap="round"/>
+  <path d="M746 738c23-48 58-78 105-90 17 48 6 91-31 128" fill="#d49a25" stroke="#191715" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M820 776c36-42 78-61 126-58 0 54-24 92-72 116" fill="#e6efe5" stroke="#191715" stroke-width="6" stroke-linejoin="round"/>
+  <ellipse cx="735" cy="826" rx="56" ry="32" fill="#191715"/>
+  <path d="M736 826c36-14 70-14 102 0" stroke="#d49a25" stroke-width="7" stroke-linecap="round"/>
+  <path d="M190 844c70-22 138-22 204 0M1160 850c62-20 124-20 186 0" stroke="#191715" stroke-width="5" stroke-linecap="round"/>
+  <g fill="#191715">
+    <circle cx="690" cy="846" r="8"/>
+    <circle cx="770" cy="866" r="7"/>
+    <circle cx="842" cy="844" r="9"/>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Noc, keď knižnica ožila spolu s nami</title>
+  <desc id="desc">Literárna kresba nočnej knižnice s otvorenou knihou, regálmi, teplými svetlami a horčicovým akcentom.</desc>
+  <rect width="1600" height="1000" fill="#fbfaf4"/>
+  <rect x="102" y="126" width="1396" height="726" fill="#fff3d3" stroke="#191715" stroke-width="10"/>
+  <path d="M220 770V238h268v532M566 770V238h268v532M912 770V238h268v532M1258 770V238h120v532" fill="none" stroke="#191715" stroke-width="7"/>
+  <g fill="#fbfaf4" stroke="#191715" stroke-width="5">
+    <rect x="258" y="296" width="40" height="148"/>
+    <rect x="310" y="332" width="34" height="112"/>
+    <rect x="358" y="270" width="52" height="174"/>
+    <rect x="626" y="292" width="34" height="156"/>
+    <rect x="672" y="330" width="48" height="118"/>
+    <rect x="734" y="274" width="40" height="174"/>
+    <rect x="972" y="306" width="46" height="136"/>
+    <rect x="1030" y="264" width="34" height="178"/>
+    <rect x="1078" y="336" width="58" height="106"/>
+    <rect x="1288" y="300" width="36" height="148"/>
+  </g>
+  <g fill="#d49a25" stroke="#191715" stroke-width="5">
+    <rect x="416" y="314" width="42" height="130"/>
+    <rect x="780" y="344" width="28" height="104"/>
+    <rect x="1138" y="286" width="34" height="156"/>
+    <rect x="1332" y="356" width="22" height="86"/>
+  </g>
+  <path d="M420 690c122-58 252-58 390 0 138-58 268-58 390 0v126c-122-58-252-58-390 0-138-58-268-58-390 0z" fill="#fbfaf4" stroke="#191715" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M810 690v126" stroke="#191715" stroke-width="6"/>
+  <path d="M514 730c58-14 114-14 168 0M916 730c58-14 114-14 168 0M534 766c44-8 88-8 132 0M936 766c44-8 88-8 132 0" stroke="#191715" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="390" cy="196" r="16" fill="#d49a25" stroke="#191715" stroke-width="4"/>
+  <circle cx="746" cy="178" r="12" fill="#d49a25" stroke="#191715" stroke-width="4"/>
+  <circle cx="1086" cy="198" r="18" fill="#d49a25" stroke="#191715" stroke-width="4"/>
+  <circle cx="1284" cy="206" r="12" fill="#d49a25" stroke="#191715" stroke-width="4"/>
+  <path d="M390 212v42M746 190v44M1086 216v38M1284 218v36" stroke="#191715" stroke-width="4" stroke-linecap="round"/>
+  <path d="M346 552c44-34 88-34 132 0M1096 554c44-34 88-34 132 0" fill="none" stroke="#191715" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="412" cy="572" r="24" fill="#fbfaf4" stroke="#191715" stroke-width="5"/>
+  <circle cx="1160" cy="574" r="24" fill="#fbfaf4" stroke="#191715" stroke-width="5"/>
+</svg>
