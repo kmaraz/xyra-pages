@@ -414,6 +414,24 @@ button:focus-visible {
   margin-top: 1.15em;
 }
 
+.story-text-verse {
+  width: min(602px, 100%);
+  line-height: 1.5;
+}
+
+.story-text-verse p + p {
+  margin-top: 0;
+}
+
+.story-text-verse .story-line,
+.story-text-verse .story-section {
+  margin: 0;
+}
+
+.story-text-verse > * + * {
+  margin-top: 1.5em;
+}
+
 .story-pagination {
   width: min(860px, 100%);
   margin: 64px auto 0;
