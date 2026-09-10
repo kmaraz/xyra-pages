@@ -436,6 +436,23 @@ button:focus-visible {
   margin-top: 1.5em;
 }
 
+.story-dialog .story-text hr {
+  height: 1.5em;
+  margin: 1.8em 0;
+  border: 0;
+  color: var(--mustard);
+  text-align: center;
+}
+
+.story-dialog .story-text hr::after {
+  content: "\2022\00a0\2022\00a0\2022";
+  display: block;
+  font-family: var(--sans);
+  font-size: 18px;
+  line-height: 1;
+  letter-spacing: 0;
+}
+
 .story-pagination {
   width: min(860px, 100%);
   margin: 64px auto 0;
